@@ -11,11 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-iSearchat unifies search and chat, making large language models (LLM) eg. ChatGPT accessible in your daily searching for answers.
+🙋‍♀️ iSearchat revolutionizes the way we access information by seamlessly integrating search functionality with chat, leveraging the capabilities of large language models (LLMs) such as ChatGPT to enhance your daily searching experience.
 
-Compared to ChatGPT, it uses retrieval augmented generation (RAG) by default. Features include:
-- Integration to popular search engines.
-- Generate answers based on search results.
+🍿 Distinct from ChatGPT, iSearchat employs Retrieval-Augmented Generation (RAG) as its core technology, ensuring that the answers it provides are enriched and informed by the latest data available across the web. Key features include:
+
+- Direct integration with leading search engines eg. Google, enabling a comprehensive search experience.
+- The ability to generate informed responses based on real-time search results, delivering accurate and up-to-date information.
 
 <!--
 📣 Visit the [website](https://www.curateds.com) to discover awesome lists curated by the community.
