@@ -11,12 +11,24 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-🙋‍♀️ iSearchat revolutionizes the way we access information by seamlessly integrating search functionality with chat, leveraging the capabilities of large language models (LLMs) such as ChatGPT to enhance your daily searching experience.
+🙋‍♀️ Rabrain is your all-in-one research and writing assistant, combining the capabilities of Perplexity.ai, the versatility of Notion, and the convenience of Pocket. This AI-driven platform helps you seamlessly transform rough ideas into polished, professional content. Whether you're researching, organizing your thoughts, or crafting comprehensive articles, Rabrain is designed to support every step of your creative process.
 
-🍿 Distinct from ChatGPT, iSearchat employs Retrieval-Augmented Generation (RAG) as its core technology, ensuring that the answers it provides are enriched and informed by the latest data available across the web. Key features include:
+### Features
 
-- Direct integration with leading search engines eg. Google, enabling a comprehensive search experience.
-- The ability to generate informed responses based on real-time search results, delivering accurate and up-to-date information.
+- 🤖 AI-powered research companion and content generation
+- 🧙 Intuitive Block Editor
+  - Ask AI to edit or generate your content
+  - Upload images
+- #️⃣ Share your content
+
+
+### Pricing
+
+🍿 Rabrain has free and paid plans. You can try it out for free and see how it works.
+
+### Support 
+
+💬 If you have any questions or issues, you can contact us at [hello@rabrain.com](mailto:hello@rabrain.com).
 
 <!--
 📣 Visit the [website](https://www.curateds.com) to discover awesome lists curated by the community.
