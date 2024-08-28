@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋 Rabrain: Free AI Writer, Text Generator & Research Assistant
 
 <!--
 
