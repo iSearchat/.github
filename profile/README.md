@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-🙋‍♀️ Rabrain is your all-in-one research and writing assistant, combining the capabilities of Perplexity.ai, the versatility of Notion, and the convenience of Pocket. This AI-driven platform helps you seamlessly transform rough ideas into polished, professional content. Whether you're researching, organizing your thoughts, or crafting comprehensive articles, Rabrain is designed to support every step of your creative process.
+🙋‍♀️ [Rabrain](https://www.rabrain.com) is your all-in-one research and writing assistant (aka AI writer), combining the capabilities of Perplexity.ai, the versatility of Notion, and the convenience of Pocket. This AI-driven content generator helps you seamlessly transform rough ideas into polished, professional content. Whether you're researching, organizing your thoughts, or crafting comprehensive articles, Rabrain is designed to support every step of your creative process.
 
 ### Features
 
