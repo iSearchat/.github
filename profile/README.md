@@ -1,4 +1,4 @@
-# 👋 Rabrain: Free AI Writer, Text Generator & Research Assistant
+# 👋 Rabrain: Best Bookmark Manager for Building a Second Brain
 
 <!--
 
@@ -11,20 +11,33 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-🙋‍♀️ [Rabrain](https://www.rabrain.com) is your all-in-one research and writing assistant (aka AI writer), combining the capabilities of Perplexity.ai, the versatility of Notion, and the convenience of Pocket. This AI-driven content generator helps you seamlessly transform rough ideas into polished, professional content. Whether you're researching, organizing your thoughts, or crafting comprehensive articles, Rabrain is designed to support every step of your creative process.
+🙋‍♀️ Rabrain is your [AI-powered second brain](https://www.rabrain.com) that combines the convenience of read-it-later apps like Pocket with the versatility of Notion. It transforms how you save and interact with digital information, going beyond traditional bookmarking to create an intelligent knowledge management system. Whether you're saving articles for later reading, researching topics, or organizing your digital library, Rabrain's AI capabilities ensure you can always find and utilize your saved knowledge effectively.
 
-### Features
+In a nutshell, Rabrain is an AI-powered
+- Bookmark manager
+- Read-it-later app
+- Personal knowledge management system (PKM app)
+- Note taking app
+- Writing assistant
+- Second brain
 
-- 🤖 AI-powered research companion and content generation
-- 🧙 Intuitive Block Editor
-  - Ask AI to edit or generate your content
-  - Upload images
-- #️⃣ Share your content
+## Features
 
+### Building your AI second brain
+
+Rabrain follows the proven CODE methodology (Capture, Organize, Distill, Express) from the book ["Building a Second Brain" by Tiago Forte](https://www.buildingasecondbrain.com/) to help you build a second brain:
+
+- **Advanced Read-it-Later**: Save any web page, article, or document for later reading with our enhanced reader mode that removes clutter and presents content beautifully
+- **Semantic Search**: Unlike traditional bookmark managers that only match exact keywords, Rabrain understands the meaning behind your search. Find content even when you remember the concept but not the exact words
+- **AI Summaries**: Get instant, concise summaries of your saved content, helping you quickly grasp key points without reading the entire piece
+- **Interactive Knowledge**: Have natural conversations with your saved documents using Retrieval-Augmented Generation (RAG) technology. Ask questions, explore connections, and extract insights
+
+### AI Writer
+Rabrain includes powerful [AI writing features](https://www.rabrain.com/docs/ai-writer) that help you transform your research into polished content, making it perfect for content creation and research writing.
 
 ### Pricing
 
-🍿 Rabrain has free and paid plans. You can try it out for free and see how it works.
+🍿 Rabrain offers both free and premium plans to suit your needs. Start with our generous free tier to experience the power of an AI-enhanced second brain, with no credit card required.
 
 ### Support 
 
